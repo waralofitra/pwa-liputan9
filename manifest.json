@@ -1,0 +1,21 @@
+{
+  "name": "Liputan Sembilan",
+  "short_name": "Liputan9",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg84BOhCk1uesBmohScmul_MoSmVZCZnzp5iQa_rWPinHgpi1A2fW1XdLKi5_lWO_AfetZALrTe6s0NVzU1dTA_zI3q8hXgpSHOZbqg6zdXYGoIn-gX5LlFfdkb3EtdJDSHCkVvp9w41KH_lZ-h2yXR0KkP-6I-6qnSNw6PrOGxHOVGv3CiUDHIokfHAiQ/s192/512p.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg84BOhCk1uesBmohScmul_MoSmVZCZnzp5iQa_rWPinHgpi1A2fW1XdLKi5_lWO_AfetZALrTe6s0NVzU1dTA_zI3q8hXgpSHOZbqg6zdXYGoIn-gX5LlFfdkb3EtdJDSHCkVvp9w41KH_lZ-h2yXR0KkP-6I-6qnSNw6PrOGxHOVGv3CiUDHIokfHAiQ/s512/512p.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
